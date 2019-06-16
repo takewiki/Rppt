@@ -1,0 +1,5 @@
+Name: 创建插件注册文件
+Description: 创建插件注册文件，内容为空.
+Binding: AddinRegFileCreator
+Interactive: true
+

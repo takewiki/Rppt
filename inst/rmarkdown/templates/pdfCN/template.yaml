@@ -1,0 +1,4 @@
+name: PDF中文使用模板
+description: >
+   提供rmarkdown生成中文pdf模板，默认字段为微软雅黑
+create_dir: true

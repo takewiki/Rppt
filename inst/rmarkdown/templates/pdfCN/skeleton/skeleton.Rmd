@@ -1,0 +1,25 @@
+---
+title: "中文PDF演示模板"
+output:
+  pdf_document:
+    includes:
+      header-includes: \usepackage{xeCJK}
+    keep_tex: yes
+    latex_engine: xelatex
+  html_document:
+    df_print: paged
+CJKmainfont: msyh.ttc
+---
+
+# 标题1
+## 标题2
+### 标题3
+这是正文，请继续处理
+--
+这是什么
+--
+---
+这是什么
+---
+再次测试
+---
